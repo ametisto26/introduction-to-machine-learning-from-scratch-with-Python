@@ -1,1 +1,1 @@
-# introduction-to-machine-learning-from-scratch-with-Python
+# Introduction to Machine Learning from Scratch with Python
