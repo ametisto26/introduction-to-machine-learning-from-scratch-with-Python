@@ -1,0 +1,7 @@
+#gitignore
+.vscode
+.idea
+note.aux
+note.log
+note.tex
+note.synctex.gz
